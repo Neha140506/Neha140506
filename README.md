@@ -58,7 +58,7 @@
 <br/>
 
 <div align="center">
-<table width="850px" style="border:2px solid #FF10F0; border-radius:14px; box-shadow:0 0 12px #FF10F0;">
+<table width="850px" style="border:2px solid #FF10F0; border-radius:14px; box-shadow:0 0 12px #FF10F0; overflow: hidden;">
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neha140506&theme=radical&show_icons=true&hide_border=true&count_private=true" width="400"/>
@@ -86,37 +86,60 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neha140506&theme=radical&hide_border=true&area=true" width="820"/>
     </td>
   </tr>
+
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=FF10F0&height=100&section=footer" width="100%"/>
+    </td>
+  </tr>
 </table>
 </div>
+
+
+
+
 
 
 ### 🛠️ The Arsenal
 
 **Languages**
 <br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-FF10F0?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FF10F0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-FF10F0?style=for-the-badge&logo=c&logoColor=white" />
+
+<br>
 
 **AI & Data Science**
 <br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-FF10F0?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF10F0?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-FF10F0?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-FF10F0?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-FF10F0?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<br>
 
 **Backend & Cloud**
 <br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-FF10F0?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-FF10F0?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF10F0?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+<br>
 
 **Tools & Platforms**
 <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-FF10F0?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-FF10F0?style=for-the-badge&logo=notion&logoColor=white" />
 
+<br>
+<br>
+
+<img src="https://media.giphy.com/media/nlk3Y1u3r1n5C/giphy.gif" width="850px" style="border-radius: 10px;"/>
+
+<br>
+<br>
 <div align="center">
 <p>
 <a href="https://discord.gg/half_awaken_catto">
@@ -129,5 +152,6 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-</div>
+
+
 
