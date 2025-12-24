@@ -100,7 +100,7 @@
 
 
 
-### 🛠️ The Arsenal
+### 🛠️ The Tech Stack
 
 **Languages**
 <br>
@@ -125,22 +125,15 @@
 <img src="https://img.shields.io/badge/FastAPI-FF10F0?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-FF10F0?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-FF10F0?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
 <br>
-
 **Tools & Platforms**
 <br>
 <img src="https://img.shields.io/badge/Git-FF10F0?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-FF10F0?style=for-the-badge&logo=notion&logoColor=white" />
-
-<br>
 <br>
 
-<img src="https://media.giphy.com/media/nlk3Y1u3r1n5C/giphy.gif" width="850px" style="border-radius: 10px;"/>
-
-<br>
-<br>
 <div align="center">
+  <img src="https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="50%" style="border-radius: 10px;"/>
 <p>
 <a href="https://discord.gg/half_awaken_catto">
   <img src="https://img.shields.io/badge/Discord-FF10F0?style=for-the-badge&logo=discord&logoColor=white" />
