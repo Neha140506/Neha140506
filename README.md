@@ -61,23 +61,29 @@
 <table width="850px" style="border:2px solid #FF10F0; border-radius:14px; box-shadow:0 0 12px #FF10F0;">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neha140506&theme=react&show_icons=true&hide_border=true&count_private=true" width="400"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neha140506&theme=radical&show_icons=true&hide_border=true&count_private=true" width="400"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Neha140506&layout=compact&theme=react&hide_border=true" width="400"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Neha140506&layout=compact&theme=radical&hide_border=true" width="400"/>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="50%">
       <a href="https://codeforces.com/profile/Neha1406">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Neha1406&theme=react&hide_border=true" width="400"/>
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Neha1406&theme=radical&hide_border=true" width="400"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://atcoder.jp/users/Neha_14">
-        <img src="https://atcoder-readme-stats.vercel.app/stats/Neha_14?theme=dark&hide_border=true&show_icons=true" width="400"/>
+      <a href="https://leetcode.com/u/vLYFRjbuNM/">
+        <img src="https://leetcard.jacoblin.cool/vLYFRjbuNM?theme=radical&font=Inter&ext=contest" width="400"/>
       </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neha140506&theme=radical&hide_border=true&area=true" width="820"/>
     </td>
   </tr>
 </table>
@@ -116,7 +122,7 @@
 <a href="https://discord.gg/half_awaken_catto">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/smasifmohamed/">
+<a href="https://www.linkedin.com/in/neha-sabari-sree-375410296">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:nehasabarisree14@gmail.com">
@@ -124,3 +130,4 @@
 </a>
 </p>
 </div>
+
