@@ -1,102 +1,88 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=900&lines=Hi,+I'm+Neha+Sabari+Sree;B.Tech+IT+Student;DSA+%7C+Machine+Learning+%7C+Backend;Hackathon+Winner+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=FF00FF&background=00000000&center=true&vCenter=true&width=900&lines=Hi,+I'm+Neha+Sabari+Sree;B.Tech+IT+Student;DSA+%7C+Machine+Learning+%7C+Backend;Hackathon+Winner+%7C+Problem+Solver" alt="Typing SVG" />
+</div>
 </div>
 
-
-</div>
-
-### 🚀 Professional Overview
+### <span style=color:#FF10F0;> Professional Overview</span>
 
 <div align="center">
-<table width="850px">
+<table width="850px" style="border:2px solid #FF10F0; border-radius:14px; box-shadow:0 0 12px #FF10F0;">
   <tr>
-    <td width="55%" valign="top">
-      <h3>👩‍💻 The Engineer</h3>
+    <td width="55%" valign="top" style="color:#FFD6F5;">
+      <h3 style="color:#FF10F0;">👩‍💻 The Engineer</h3>
       <p>
-        I am an <strong>Information Technology undergraduate</strong> with strong interests in <strong>Machine Learning</strong>, <strong>problem solving</strong>, and <strong>backend fundamentals</strong>. I enjoy applying algorithms and data-driven approaches to solve real-world problems.
+        I am an <strong style="color:#FF7AF5;">Information Technology undergraduate</strong> with strong interests in 
+        <strong style="color:#FF7AF5;">Machine Learning</strong>, 
+        <strong style="color:#FF7AF5;">problem solving</strong>, and 
+        <strong style="color:#FF7AF5;">backend fundamentals</strong>.
       </p>
       <p>
-        I have hands-on experience building <strong>end-to-end ML models</strong>, performing <strong>EDA</strong>, and working with <strong>computer vision</strong> and <strong>deep learning architectures</strong> through academic projects and industry-led programs.
+        I have hands-on experience building <strong>end-to-end ML models</strong>, performing 
+        <strong>EDA</strong>, and working with 
+        <strong>computer vision</strong> and <strong>deep learning architectures</strong>.
       </p>
       <br/>
-      <strong>Current Focus:</strong>
+      <strong style="color:#FF10F0;">Current Focus:</strong>
       <ul>
-        <li>🧠 <strong>Problem Solving:</strong> DSA in Java, algorithm optimization, interview preparation</li>
-        <li>🤖 <strong>Machine Learning:</strong> Regression, Decision Trees, SVM, k-NN, Ensemble Models</li>
-        <li>⚙️ <strong>Foundations:</strong> DBMS, SQL, backend logic, system fundamentals</li>
+        <li>🧠 <strong>Problem Solving:</strong> DSA in Java, algorithm optimization</li>
+        <li>🤖 <strong>Machine Learning:</strong> Regression, Decision Trees, SVM, k-NN</li>
+        <li>⚙️ <strong>Foundations:</strong> DBMS, SQL, backend logic</li>
       </ul>
     </td>
-    <td width="45%" valign="top">
-      <h3>📈 Impact & Achievements</h3>
+
+  <td width="45%" valign="top" style="color:#FFD6F5;">
+      <h3 style="color:#FF10F0;">📈 Impact & Achievements</h3>
       <ul>
         <li>
-          <strong>Sign Language Translation System:</strong><br/>
-          Designed a real-time gesture recognition system using <strong>Python and OpenCV</strong>, improving detection speed by <strong>20%</strong> and enhancing accessibility.
+          <strong style="color:#FF7AF5;">Sign Language Translation System</strong><br/>
+          Built using <strong>Python & OpenCV</strong>, improving detection speed by <strong>20%</strong>.
         </li>
         <li>
-          <strong>Deepfake Detection Model:</strong><br/>
-          Built a deep learning model using <strong>InceptionResNetV1</strong>, achieving <strong>95% accuracy</strong> with explainability via <strong>Grad-CAM</strong>.
+          <strong style="color:#FF7AF5;">Deepfake Detection Model</strong><br/>
+          Achieved <strong>95% accuracy</strong> with <strong>Grad-CAM</strong>.
         </li>
         <li>
-          <strong>ML Summer School (Girls Leading Tech):</strong><br/>
-          Gained hands-on experience in ML pipelines, EDA, and model comparison across multiple real-world datasets.
+          <strong style="color:#FF7AF5;">ML Summer School (Girls Leading Tech)</strong>
         </li>
         <li>
-          <strong>Hackathon & Coding Achievements:</strong><br/>
-          <strong>Hackathon Winner (Conquesta’24)</strong> and prize winner in competitive coding events.
+          <strong style="color:#FF7AF5;">Hackathon Winner – Conquesta’24</strong>
         </li>
       </ul>
     </td>
   </tr>
 </table>
 </div>
-
-<div align="center">
-<table width="850px">
-  <tr>
-    <td align="center" width="50%">
-      <img 
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neha140506&theme=react&show_icons=true&hide_border=true&count_private=true" 
-        width="400" 
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img 
-        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Neha140506&layout=compact&theme=react&hide_border=true" 
-        width="400" 
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://codeforces.com/profile/Neha1406" target="_blank">
-        <img 
-          src="https://codeforces-readme-stats.vercel.app/api/card?username=Neha1406&theme=react&hide_border=true" 
-          width="400" 
-          alt="Codeforces Profile"
-        />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://atcoder.jp/users/Neha_14" target="_blank">
-        <img 
-          src="https://atcoder-readme-stats.vercel.app/stats/Neha_14?theme=dark&hide_border=true&show_history=false&show_icons=true" 
-          width="400" 
-          alt="AtCoder Profile"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
+<div align="center">
+<table width="850px" style="border:2px solid #FF10F0; border-radius:14px; box-shadow:0 0 12px #FF10F0;">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neha140506&theme=react&show_icons=true&hide_border=true&count_private=true" width="400"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Neha140506&layout=compact&theme=react&hide_border=true" width="400"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://codeforces.com/profile/Neha1406">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Neha1406&theme=react&hide_border=true" width="400"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://atcoder.jp/users/Neha_14">
+        <img src="https://atcoder-readme-stats.vercel.app/stats/Neha_14?theme=dark&hide_border=true&show_icons=true" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
+
 
 ### 🛠️ The Arsenal
 
